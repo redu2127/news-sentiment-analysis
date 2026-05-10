@@ -1,3 +1,4 @@
 from src.technical_indicators import calculate_sma
 
-print("Technical analysis module loaded successfully.")
+print("Project modules loaded successfully.")
+print("Technical indicator functions are ready.")
